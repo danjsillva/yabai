@@ -57,4 +57,6 @@ yabai -m rule --add app='^System Preferences$' manage=off
 yabai -m rule --add app='^Steam$' manage=off
 yabai -m rule --add app='^csgo_osx64$' manage=off
 
+yabai -m rule --add app='^Kontakt$' manage=off
+
 echo "yabai configuration loaded.."
